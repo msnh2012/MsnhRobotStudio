@@ -12,10 +12,10 @@
 链接: https://pan.baidu.com/s/1jY1oFwODT-XkQWETBQSrPw 
 提取码: fart
 ### 软件界面
-![](DummyRobotStudio/studio.png)
+![](MsnhRobotStudio/studio.png)
 ### 关节控制
-![](DummyRobotStudio/jointMove.png)
+![](MsnhRobotStudio/jointMove.png)
 ### 关节空间规划
-![](DummyRobotStudio/jointPlan.png)
+![](MsnhRobotStudio/jointPlan.png)
 ### 笛卡尔空间规划
-![](DummyRobotStudio/cartPlan.png)
+![](MsnhRobotStudio/cartPlan.png)
