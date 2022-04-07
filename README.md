@@ -7,8 +7,6 @@
 ### 下载链接
 链接: https://pan.baidu.com/s/1jY1oFwODT-XkQWETBQSrPw 
 提取码: fart
-### 软著
-![](MsnhRobotStudio/copyright.png)
 ### 软件界面
 ![](MsnhRobotStudio/studio.png)
 ### 关节控制
